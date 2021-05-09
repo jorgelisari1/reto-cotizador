@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reto-cotizador/static/css/main.d8b32f09.chunk.css",
+    "main.js": "/reto-cotizador/static/js/main.a9dc6546.chunk.js",
+    "main.js.map": "/reto-cotizador/static/js/main.a9dc6546.chunk.js.map",
+    "runtime-main.js": "/reto-cotizador/static/js/runtime-main.da7ac47a.js",
+    "runtime-main.js.map": "/reto-cotizador/static/js/runtime-main.da7ac47a.js.map",
+    "static/js/2.8a7a5655.chunk.js": "/reto-cotizador/static/js/2.8a7a5655.chunk.js",
+    "static/js/2.8a7a5655.chunk.js.map": "/reto-cotizador/static/js/2.8a7a5655.chunk.js.map",
+    "static/js/3.16bad72b.chunk.js": "/reto-cotizador/static/js/3.16bad72b.chunk.js",
+    "static/js/3.16bad72b.chunk.js.map": "/reto-cotizador/static/js/3.16bad72b.chunk.js.map",
+    "index.html": "/reto-cotizador/index.html",
+    "static/css/main.d8b32f09.chunk.css.map": "/reto-cotizador/static/css/main.d8b32f09.chunk.css.map",
+    "static/js/2.8a7a5655.chunk.js.LICENSE.txt": "/reto-cotizador/static/js/2.8a7a5655.chunk.js.LICENSE.txt",
+    "static/media/girl-desktop.bd0d93d7.png": "/reto-cotizador/static/media/girl-desktop.bd0d93d7.png",
+    "static/media/mobile-girl.470f66bf.png": "/reto-cotizador/static/media/mobile-girl.470f66bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da7ac47a.js",
+    "static/js/2.8a7a5655.chunk.js",
+    "static/css/main.d8b32f09.chunk.css",
+    "static/js/main.a9dc6546.chunk.js"
+  ]
+}
