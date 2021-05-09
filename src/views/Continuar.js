@@ -25,9 +25,7 @@ export const Continuar = (props) => {
           </div>
           <div className="card2">
             <Card2/>
-           
           </div>
-  
         </div>
         <div className="card-help">
               <CardHelp />
