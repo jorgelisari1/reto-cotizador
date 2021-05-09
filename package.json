@@ -2,6 +2,9 @@
   "name": "reto_cotizador",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jorgelisari1.github.io/reto-cotizador/",
+  "predeploy": "npm run build",
+  "deploy":"gh-pages -d build -r https://$GH_TOKEN@github.com/jorgelisari1/reto-cotizador/",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/icons": "^4.11.2",
@@ -38,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
