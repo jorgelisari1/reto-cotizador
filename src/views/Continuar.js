@@ -2,7 +2,7 @@ import React from 'react';
 import ArrowBackIos from '@material-ui/icons/ArrowBackIos';
 import { Header } from '../components/Header';
 import { Step2 } from '../components/Step2';
-import { CardHelp } from '../components/CardHelp';
+import { Card2 } from '../components/Card2';
 
 import '../styles/continuar.css';
 
@@ -28,7 +28,6 @@ export const Continuar = (props) => {
            
           </div>
   
-          
         </div>
         <div className="card-help">
               <CardHelp />
